@@ -1,0 +1,8 @@
+{
+  "DictionaryMod:Format": {
+    "TEXT": ["YES","NO","MAYBE"]
+  },
+  "DictionaryMod:ModConfigMaybe": {
+    "TEXT": ["Convert X Cost to MAYBE"]
+  }
+}

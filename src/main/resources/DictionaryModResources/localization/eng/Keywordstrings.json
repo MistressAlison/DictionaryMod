@@ -1,0 +1,140 @@
+[
+  {
+    "PROPER_NAME": "A",
+    "NAMES": [
+      "a",
+      "an"
+    ],
+    "DESCRIPTION": "Used when referring to someone or something for the first time in a text or conversation."
+  },
+  {
+    "PROPER_NAME": "Add",
+    "NAMES": [
+      "add",
+      "added",
+      "adds"
+    ],
+    "DESCRIPTION": "Put in (an additional element, ingredient, etc.)."
+  },
+  {
+    "PROPER_NAME": "Apply",
+    "NAMES": [
+      "apply",
+      "applied",
+      "applies"
+    ],
+    "DESCRIPTION": "To put into operation or effect"
+  },
+  {
+    "PROPER_NAME": "Card",
+    "NAMES": [
+      "card",
+      "cards"
+    ],
+    "DESCRIPTION": "A flat stiff usually small and rectangular piece of material (such as paper, cardboard, or plastic) usually bearing information."
+  },
+  {
+    "PROPER_NAME": "Copy",
+    "NAMES": [
+      "copy",
+      "copies"
+    ],
+    "DESCRIPTION": "A thing made to be similar or identical to another."
+  },
+  {
+    "PROPER_NAME": "Damage",
+    "NAMES": [
+      "damage",
+      "deals",
+      "dealt"
+    ],
+    "DESCRIPTION": "Physical harm caused to something in such a way as to impair its value, usefulness, or normal function."
+  },
+  {
+    "PROPER_NAME": "Deal",
+    "NAMES": [
+      "deal",
+      "deals",
+      "dealt"
+    ],
+    "DESCRIPTION": "Inflict (a blow) on (someone or something)."
+  },
+  {
+    "PROPER_NAME": "Discard",
+    "NAMES": [
+      "discard",
+      "discarded",
+      "discards"
+    ],
+    "DESCRIPTION": "Get rid of (someone or something) as no longer useful or desirable."
+  },
+  {
+    "PROPER_NAME": "Equal",
+    "NAMES": [
+      "equal",
+      "equals",
+      "equaled"
+    ],
+    "DESCRIPTION": "Being the same in quantity, size, degree, or value."
+  },
+  {
+    "PROPER_NAME": "Gain",
+    "NAMES": [
+      "gain",
+      "gained",
+      "gains"
+    ],
+    "DESCRIPTION": "Obtain or secure (something desired, favorable, or profitable)."
+  },
+  {
+    "PROPER_NAME": "Into",
+    "NAMES": [
+      "into"
+    ],
+    "DESCRIPTION": "Expressing movement or action with the result that someone or something becomes enclosed or surrounded by something else."
+  },
+  {
+    "PROPER_NAME": "Of",
+    "NAMES": [
+      "of"
+    ],
+    "DESCRIPTION": "Indicating an association between two entities, typically one of belonging."
+  },
+  {
+    "PROPER_NAME": "Pile",
+    "NAMES": [
+      "pile",
+      "piles"
+    ],
+    "DESCRIPTION": "A heap of things laid or lying one on top of another."
+  },
+  {
+    "PROPER_NAME": "This",
+    "NAMES": [
+      "this",
+      "these"
+    ],
+    "DESCRIPTION": "Referring to a specific thing or situation just mentioned."
+  },
+  {
+    "PROPER_NAME": "To",
+    "NAMES": [
+      "to"
+    ],
+    "DESCRIPTION": "Identifying the person or thing affected."
+  },
+  {
+    "PROPER_NAME": "Your",
+    "NAMES": [
+      "your"
+    ],
+    "DESCRIPTION": "Belonging to or associated with the person or people that the speaker is addressing."
+  },
+  {
+    "PROPER_NAME": "99",
+    "NAMES": [
+      "99"
+    ],
+    "DESCRIPTION": "Being nine more than ninety."
+  }
+]
