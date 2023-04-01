@@ -7,7 +7,7 @@
     <artifactId>DictionaryMod</artifactId> <!--Keep a note of this one: this is the ID used in the "auto add cards" method-->
     <name>Dictionary Mod</name>
     <version>0.0.1</version>
-    <description>Don't use this.</description>
+    <description>Makes every word a keyword.</description>
 
     <properties>
         <maven.compiler.source>1.8</maven.compiler.source>

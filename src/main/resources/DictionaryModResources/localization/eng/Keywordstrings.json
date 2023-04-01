@@ -8,13 +8,71 @@
     "DESCRIPTION": "Used when referring to someone or something for the first time in a text or conversation."
   },
   {
+    "PROPER_NAME": "Ability",
+    "NAMES": [
+      "ability"
+    ],
+    "DESCRIPTION": "Talent, skill, or proficiency in a particular area."
+  },
+  {
     "PROPER_NAME": "Add",
     "NAMES": [
       "add",
       "added",
-      "adds"
+      "adds",
+      "additional"
     ],
     "DESCRIPTION": "Put in (an additional element, ingredient, etc.)."
+  },
+  {
+    "PROPER_NAME": "Affect",
+    "NAMES": [
+      "affects",
+      "affect"
+    ],
+    "DESCRIPTION": "Not to be confused with effect."
+  },
+  {
+    "PROPER_NAME": "After",
+    "NAMES": [
+      "after"
+    ],
+    "DESCRIPTION": "In the time following an event."
+  },
+  {
+    "PROPER_NAME": "Again",
+    "NAMES": [
+      "again"
+    ],
+    "DESCRIPTION": "Once more."
+  },
+  {
+    "PROPER_NAME": "All",
+    "NAMES": [
+      "all"
+    ],
+    "DESCRIPTION": "The whole amount, quantity, or extent of."
+  },
+  {
+    "PROPER_NAME": "And",
+    "NAMES": [
+      "and"
+    ],
+    "DESCRIPTION": "Used to connect words of the same part of speech, clauses, or sentences, that are to be taken jointly."
+  },
+  {
+    "PROPER_NAME": "Another",
+    "NAMES": [
+      "another"
+    ],
+    "DESCRIPTION": "Different or distinct from the one first considered."
+  },
+  {
+    "PROPER_NAME": "Any",
+    "NAMES": [
+      "any"
+    ],
+    "DESCRIPTION": "One, some, or all indiscriminately of whatever quantity."
   },
   {
     "PROPER_NAME": "Apply",
@@ -23,15 +81,149 @@
       "applied",
       "applies"
     ],
-    "DESCRIPTION": "To put into operation or effect"
+    "DESCRIPTION": "To put into operation or effect."
+  },
+  {
+    "PROPER_NAME": "Are",
+    "NAMES": [
+      "are"
+    ],
+    "DESCRIPTION": "To exist, occur, or have a state."
+  },
+  {
+    "PROPER_NAME": "Armor",
+    "NAMES": [
+      "armor"
+    ],
+    "DESCRIPTION": "Coverings worn to protect the body."
+  },
+  {
+    "PROPER_NAME": "At",
+    "NAMES": [
+      "at"
+    ],
+    "DESCRIPTION": "Used as a function word to indicate presence or occurrence in, position in time, or situation in an active or passive state or condition."
+  },
+  {
+    "PROPER_NAME": "Attack",
+    "NAMES": [
+      "attack",
+      "attacks"
+    ],
+    "DESCRIPTION": "A card type that primarily involves doing damage."
+  },
+  {
+    "PROPER_NAME": "Attacked",
+    "NAMES": [
+      "attacked"
+    ],
+    "DESCRIPTION": "The opposite of protec."
+  },
+  {
+    "PROPER_NAME": "Back",
+    "NAMES": [
+      "back"
+    ],
+    "DESCRIPTION": "To return from which a thing came."
+  },
+  {
+    "PROPER_NAME": "Be",
+    "NAMES": [
+      "be",
+      "been",
+      "being"
+    ],
+    "DESCRIPTION": "To exist, occur, or have a state."
+  },
+  {
+    "PROPER_NAME": "By",
+    "NAMES": [
+      "by"
+    ],
+    "DESCRIPTION": "Used as a function work indicating how much to modify something by."
+  },
+  {
+    "PROPER_NAME": "Bottom",
+    "NAMES": [
+      "bottom"
+    ],
+    "DESCRIPTION": "[DictionaryMod:PleadingIcon]"
+  },
+  {
+    "PROPER_NAME": "Can",
+    "NAMES": [
+      "can"
+    ],
+    "DESCRIPTION": "To be capable of."
+  },
+  {
+    "PROPER_NAME": "Cannot",
+    "NAMES": [
+      "cannot"
+    ],
+    "DESCRIPTION": "Think can, but no."
   },
   {
     "PROPER_NAME": "Card",
     "NAMES": [
       "card",
-      "cards"
+      "cards",
+      "card's"
     ],
     "DESCRIPTION": "A flat stiff usually small and rectangular piece of material (such as paper, cardboard, or plastic) usually bearing information."
+  },
+  {
+    "PROPER_NAME": "Change",
+    "NAMES": [
+      "change",
+      "changes"
+    ],
+    "DESCRIPTION": "Make different."
+  },
+  {
+    "PROPER_NAME": "Choose",
+    "NAMES": [
+      "choose",
+      "chosen"
+    ],
+    "DESCRIPTION": "Open a screen."
+  },
+  {
+    "PROPER_NAME": "Claw",
+    "NAMES": [
+      "claw"
+    ],
+    "DESCRIPTION": "Is law."
+  },
+  {
+    "PROPER_NAME": "Color",
+    "NAMES": [
+      "color",
+      "colorless"
+    ],
+    "DESCRIPTION": "Red, Green, Blue, etc."
+  },
+  {
+    "PROPER_NAME": "Combat",
+    "NAMES": [
+      "combat"
+    ],
+    "DESCRIPTION": "A fight or contest between individuals or groups."
+  },
+  {
+    "PROPER_NAME": "Common",
+    "NAMES": [
+      "common"
+    ],
+    "DESCRIPTION": "A likely bad card."
+  },
+  {
+    "PROPER_NAME": "Contain",
+    "NAMES": [
+      "contain",
+      "containing"
+    ],
+    "DESCRIPTION": "Have or include."
   },
   {
     "PROPER_NAME": "Copy",
@@ -40,6 +232,22 @@
       "copies"
     ],
     "DESCRIPTION": "A thing made to be similar or identical to another."
+  },
+  {
+    "PROPER_NAME": "Cost",
+    "NAMES": [
+      "cost",
+      "costs"
+    ],
+    "DESCRIPTION": "[E] required to play the card."
+  },
+  {
+    "PROPER_NAME": "Create",
+    "NAMES": [
+      "create",
+      "created"
+    ],
+    "DESCRIPTION": "Bring (something) into existence."
   },
   {
     "PROPER_NAME": "Damage",
@@ -60,6 +268,35 @@
     "DESCRIPTION": "Inflict (a blow) on (someone or something)."
   },
   {
+    "PROPER_NAME": "Debuff",
+    "NAMES": [
+      "debuff"
+    ],
+    "DESCRIPTION": "A negative status effect."
+  },
+  {
+    "PROPER_NAME": "Decrease",
+    "NAMES": [
+      "decrease"
+    ],
+    "DESCRIPTION": "To diminish in size, amount, extent, or number."
+  },
+  {
+    "PROPER_NAME": "Deck",
+    "NAMES": [
+      "deck"
+    ],
+    "DESCRIPTION": "Your cards you bring to each combat."
+  },
+  {
+    "PROPER_NAME": "Die",
+    "NAMES": [
+      "die",
+      "dies"
+    ],
+    "DESCRIPTION": "Become unalive."
+  },
+  {
     "PROPER_NAME": "Discard",
     "NAMES": [
       "discard",
@@ -67,6 +304,80 @@
       "discards"
     ],
     "DESCRIPTION": "Get rid of (someone or something) as no longer useful or desirable."
+  },
+  {
+    "PROPER_NAME": "Do",
+    "NAMES": [
+      "do"
+    ],
+    "DESCRIPTION": "To carry out."
+  },
+  {
+    "PROPER_NAME": "Double",
+    "NAMES": [
+      "double"
+    ],
+    "DESCRIPTION": "Twice as much or as many."
+  },
+  {
+    "PROPER_NAME": "Draw",
+    "NAMES": [
+      "draw",
+      "drawn"
+    ],
+    "DESCRIPTION": "To take from a stack."
+  },
+  {
+    "PROPER_NAME": "During",
+    "NAMES": [
+      "during"
+    ],
+    "DESCRIPTION": "Throughout the course or duration of (a period of time)."
+  },
+  {
+    "PROPER_NAME": "Each",
+    "NAMES": [
+      "each"
+    ],
+    "DESCRIPTION": "Used to refer to every one of two or more things, regarded and identified separately."
+  },
+  {
+    "PROPER_NAME": "Effect",
+    "NAMES": [
+      "effects",
+      "effect"
+    ],
+    "DESCRIPTION": "Not to be confused with affect."
+  },
+  {
+    "PROPER_NAME": "End",
+    "NAMES": [
+      "end"
+    ],
+    "DESCRIPTION": "Cessation of a course of action, pursuit, or activity."
+  },
+  {
+    "PROPER_NAME": "Enemy",
+    "NAMES": [
+      "enemy",
+      "enemies",
+      "enemy's"
+    ],
+    "DESCRIPTION": "The things that need to die for combat to end."
+  },
+  {
+    "PROPER_NAME": "Energy",
+    "NAMES": [
+      "energy"
+    ],
+    "DESCRIPTION": "[E]"
+  },
+  {
+    "PROPER_NAME": "Enter",
+    "NAMES": [
+      "enter"
+    ],
+    "DESCRIPTION": "An act of going into a place."
   },
   {
     "PROPER_NAME": "Equal",
@@ -78,6 +389,62 @@
     "DESCRIPTION": "Being the same in quantity, size, degree, or value."
   },
   {
+    "PROPER_NAME": "Escape",
+    "NAMES": [
+      "escape"
+    ],
+    "DESCRIPTION": "Break free from confinement or control."
+  },
+  {
+    "PROPER_NAME": "Every",
+    "NAMES": [
+      "every"
+    ],
+    "DESCRIPTION": "Applies to all possible things in question, without exception."
+  },
+  {
+    "PROPER_NAME": "Exit",
+    "NAMES": [
+      "exit"
+    ],
+    "DESCRIPTION": "An act of going out of or leaving a place."
+  },
+  {
+    "PROPER_NAME": "Extra",
+    "NAMES": [
+      "extra"
+    ],
+    "DESCRIPTION": "Added to an existing or usual amount or number."
+  },
+  {
+    "PROPER_NAME": "First",
+    "NAMES": [
+      "first"
+    ],
+    "DESCRIPTION": "Coming before all others in time or order."
+  },
+  {
+    "PROPER_NAME": "For",
+    "NAMES": [
+      "for"
+    ],
+    "DESCRIPTION": "Used as a function word to indicate purpose, intended goal, duration of time, enumeration, or selection."
+  },
+  {
+    "PROPER_NAME": "From",
+    "NAMES": [
+      "from"
+    ],
+    "DESCRIPTION": "Indicates a starting point."
+  },
+  {
+    "PROPER_NAME": "Full",
+    "NAMES": [
+      "full"
+    ],
+    "DESCRIPTION": "Having no empty space."
+  },
+  {
     "PROPER_NAME": "Gain",
     "NAMES": [
       "gain",
@@ -87,6 +454,102 @@
     "DESCRIPTION": "Obtain or secure (something desired, favorable, or profitable)."
   },
   {
+    "PROPER_NAME": "Gold",
+    "NAMES": [
+      "gold"
+    ],
+    "DESCRIPTION": "Used to buy things."
+  },
+  {
+    "PROPER_NAME": "Hand",
+    "NAMES": [
+      "hand"
+    ],
+    "DESCRIPTION": "The set of cards you can play from."
+  },
+  {
+    "PROPER_NAME": "Have",
+    "NAMES": [
+      "has",
+      "had",
+      "have"
+    ],
+    "DESCRIPTION": "To hold in one's use or at one's disposal."
+  },
+  {
+    "PROPER_NAME": "Heal",
+    "NAMES": [
+      "heal"
+    ],
+    "DESCRIPTION": "Become slightly less dead."
+  },
+  {
+    "PROPER_NAME": "Hit",
+    "NAMES": [
+      "hit",
+      "hits"
+    ],
+    "DESCRIPTION": "Attac."
+  },
+  {
+    "PROPER_NAME": "HP",
+    "NAMES": [
+      "hp"
+    ],
+    "DESCRIPTION": "When you run out of this, die. If ALL enemies run out of this, win (usually)."
+  },
+  {
+    "PROPER_NAME": "If",
+    "NAMES": [
+      "if"
+    ],
+    "DESCRIPTION": "Indicates a condition."
+  },
+  {
+    "PROPER_NAME": "In",
+    "NAMES": [
+      "in"
+    ],
+    "DESCRIPTION": "Expressing the situation of something that is or appears to be enclosed or surrounded by something else."
+  },
+  {
+    "PROPER_NAME": "Increase",
+    "NAMES": [
+      "increase"
+    ],
+    "DESCRIPTION": "To make greater."
+  },
+  {
+    "PROPER_NAME": "Intend",
+    "NAMES": [
+      "intend",
+      "intends",
+      "intent"
+    ],
+    "DESCRIPTION": "To have in mind as a purpose or goal."
+  },
+  {
+    "PROPER_NAME": "Is",
+    "NAMES": [
+      "is"
+    ],
+    "DESCRIPTION": "To exist, occur, or have a state."
+  },
+  {
+    "PROPER_NAME": "It",
+    "NAMES": [
+      "it"
+    ],
+    "DESCRIPTION": "Refers to the specified object in question."
+  },
+  {
+    "PROPER_NAME": "Its",
+    "NAMES": [
+      "its"
+    ],
+    "DESCRIPTION": "Belonging to it."
+  },
+  {
     "PROPER_NAME": "Into",
     "NAMES": [
       "into"
@@ -94,11 +557,193 @@
     "DESCRIPTION": "Expressing movement or action with the result that someone or something becomes enclosed or surrounded by something else."
   },
   {
+    "PROPER_NAME": "Just",
+    "NAMES": [
+      "just"
+    ],
+    "DESCRIPTION": "Very recently; in the immediate past."
+  },
+  {
+    "PROPER_NAME": "Kill",
+    "NAMES": [
+      "kill",
+      "kills"
+    ],
+    "DESCRIPTION": "To make unalive."
+  },
+  {
+    "PROPER_NAME": "Last",
+    "NAMES": [
+      "last"
+    ],
+    "DESCRIPTION": "Coming after all others in time or order."
+  },
+  {
+    "PROPER_NAME": "Less",
+    "NAMES": [
+      "less"
+    ],
+    "DESCRIPTION": "Reduced size, extent, or degree."
+  },
+  {
+    "PROPER_NAME": "Lose",
+    "NAMES": [
+      "lose",
+      "lost",
+      "loses"
+    ],
+    "DESCRIPTION": "To be deprived of or cease to have or retain (something)."
+  },
+  {
+    "PROPER_NAME": "Lower",
+    "NAMES": [
+      "lower"
+    ],
+    "DESCRIPTION": "To diminish in size, amount, extent, or number."
+  },
+  {
+    "PROPER_NAME": "Many",
+    "NAMES": [
+      "many"
+    ],
+    "DESCRIPTION": "A comparative amount."
+  },
+  {
+    "PROPER_NAME": "Maximum",
+    "NAMES": [
+      "max",
+      "maximum"
+    ],
+    "DESCRIPTION": "The greatest or highest amount possible or attained."
+  },
+  {
+    "PROPER_NAME": "More",
+    "NAMES": [
+      "more"
+    ],
+    "DESCRIPTION": "A greater or additional amount or degree of.."
+  },
+  {
+    "PROPER_NAME": "Next",
+    "NAMES": [
+      "next"
+    ],
+    "DESCRIPTION": "Coming immediately after the present thing in order."
+  },
+  {
+    "PROPER_NAME": "Non-Attack",
+    "NAMES": [
+      "non-attack"
+    ],
+    "DESCRIPTION": "A bad card to play while Hexed."
+  },
+  {
+    "PROPER_NAME": "No",
+    "NAMES": [
+      "no"
+    ],
+    "DESCRIPTION": "No means no."
+  },
+  {
+    "PROPER_NAME": "Not",
+    "NAMES": [
+      "not"
+    ],
+    "DESCRIPTION": "Yes but actually no."
+  },
+  {
+    "PROPER_NAME": "Now",
+    "NAMES": [
+      "now"
+    ],
+    "DESCRIPTION": "At the present time or moment."
+  },
+  {
+    "PROPER_NAME": "Number",
+    "NAMES": [
+      "number"
+    ],
+    "DESCRIPTION": "1, 2, 3, 4, etc."
+  },
+  {
+    "PROPER_NAME": "Obtain",
+    "NAMES": [
+      "obtain",
+      "obtained"
+    ],
+    "DESCRIPTION": "Get, acquire, or secure (something)."
+  },
+  {
     "PROPER_NAME": "Of",
     "NAMES": [
       "of"
     ],
     "DESCRIPTION": "Indicating an association between two entities, typically one of belonging."
+  },
+  {
+    "PROPER_NAME": "On",
+    "NAMES": [
+      "on"
+    ],
+    "DESCRIPTION": "Used as a function word to indicate position in contact with and supported by the top surface of."
+  },
+  {
+    "PROPER_NAME": "One",
+    "NAMES": [
+      "one"
+    ],
+    "DESCRIPTION": "A singular thing."
+  },
+  {
+    "PROPER_NAME": "Or",
+    "NAMES": [
+      "or"
+    ],
+    "DESCRIPTION": "Used to link alternatives."
+  },
+  {
+    "PROPER_NAME": "Orb",
+    "NAMES": [
+      "orb",
+      "orbs"
+    ],
+    "DESCRIPTION": "Magic ball that does stuff."
+  },
+  {
+    "PROPER_NAME": "Onto",
+    "NAMES": [
+      "onto"
+    ],
+    "DESCRIPTION": "To a position on."
+  },
+  {
+    "PROPER_NAME": "Only",
+    "NAMES": [
+      "only"
+    ],
+    "DESCRIPTION": "Denotes a restriction or exclusivity."
+  },
+  {
+    "PROPER_NAME": "Otherwise",
+    "NAMES": [
+      "otherwise"
+    ],
+    "DESCRIPTION": "In circumstances different from those present or considered."
+  },
+  {
+    "PROPER_NAME": "Passive",
+    "NAMES": [
+      "passive"
+    ],
+    "DESCRIPTION": "Does not require manual activation."
+  },
+  {
+    "PROPER_NAME": "Permanent",
+    "NAMES": [
+      "permanent",
+      "permanently"
+    ],
+    "DESCRIPTION": "For the rest of the run."
   },
   {
     "PROPER_NAME": "Pile",
@@ -109,12 +754,228 @@
     "DESCRIPTION": "A heap of things laid or lying one on top of another."
   },
   {
+    "PROPER_NAME": "Plated",
+    "NAMES": [
+      "plated"
+    ],
+    "DESCRIPTION": "Covered in metal."
+  },
+  {
+    "PROPER_NAME": "Play",
+    "NAMES": [
+      "play",
+      "played"
+    ],
+    "DESCRIPTION": "To use a card to do something."
+  },
+  {
+    "PROPER_NAME": "Potion",
+    "NAMES": [
+      "potion",
+      "potions"
+    ],
+    "DESCRIPTION": "Forget about this until you are going to die and maybe it will help you then."
+  },
+  {
+    "PROPER_NAME": "Power",
+    "NAMES": [
+      "power"
+    ],
+    "DESCRIPTION": "A card type that primarily affects the rest of combat."
+  },
+  {
+    "PROPER_NAME": "Prevent",
+    "NAMES": [
+      "prevent"
+    ],
+    "DESCRIPTION": "To keep from happening."
+  },
+  {
+    "PROPER_NAME": "Put",
+    "NAMES": [
+      "put"
+    ],
+    "DESCRIPTION": "To place in a specified position."
+  },
+  {
+    "PROPER_NAME": "Raise",
+    "NAMES": [
+      "raise"
+    ],
+    "DESCRIPTION": "To make greater."
+  },
+  {
+    "PROPER_NAME": "Random",
+    "NAMES": [
+      "random"
+    ],
+    "DESCRIPTION": "Bullshit."
+  },
+  {
+    "PROPER_NAME": "Receive",
+    "NAMES": [
+      "receive"
+    ],
+    "DESCRIPTION": "Suffer, experience, or be subject to (specified treatment)"
+  },
+  {
+    "PROPER_NAME": "Reduce",
+    "NAMES": [
+      "reduce"
+    ],
+    "DESCRIPTION": "To diminish in size, amount, extent, or number."
+  },
+  {
+    "PROPER_NAME": "Remove",
+    "NAMES": [
+      "remove",
+      "removed"
+    ],
+    "DESCRIPTION": "To fully take something away."
+  },
+  {
+    "PROPER_NAME": "Rest",
+    "NAMES": [
+      "rest"
+    ],
+    "DESCRIPTION": "Something which remains over."
+  },
+  {
+    "PROPER_NAME": "Return",
+    "NAMES": [
+      "return"
+    ],
+    "DESCRIPTION": "Give, put, or send (something) back to a place."
+  },
+  {
+    "PROPER_NAME": "Set",
+    "NAMES": [
+      "set"
+    ],
+    "DESCRIPTION": "Put into a specified state."
+  },
+  {
+    "PROPER_NAME": "Shuffle",
+    "NAMES": [
+      "shuffle"
+    ],
+    "DESCRIPTION": "Brick all the important cards."
+  },
+  {
+    "PROPER_NAME": "Single",
+    "NAMES": [
+      "single"
+    ],
+    "DESCRIPTION": "Only one."
+  },
+  {
+    "PROPER_NAME": "Skill",
+    "NAMES": [
+      "skill",
+      "skills"
+    ],
+    "DESCRIPTION": "A card type that primarily involves making Nob angry."
+  },
+  {
+    "PROPER_NAME": "Slot",
+    "NAMES": [
+      "slot",
+      "slots"
+    ],
+    "DESCRIPTION": "An alloted place to put something."
+  },
+  {
+    "PROPER_NAME": "Start",
+    "NAMES": [
+      "start"
+    ],
+    "DESCRIPTION": "The beginning."
+  },
+  {
+    "PROPER_NAME": "Strike",
+    "NAMES": [
+      "strike",
+      "\"strike\""
+    ],
+    "DESCRIPTION": "A bad card."
+  },
+  {
+    "PROPER_NAME": "Take",
+    "NAMES": [
+      "take"
+    ],
+    "DESCRIPTION": "Is for me."
+  },
+  {
+    "PROPER_NAME": "Than",
+    "NAMES": [
+      "than"
+    ],
+    "DESCRIPTION": "Used to introduce the second element in a comparison."
+  },
+  {
+    "PROPER_NAME": "That",
+    "NAMES": [
+      "that"
+    ],
+    "DESCRIPTION": "Referring to a specific thing or situation just mentioned."
+  },
+  {
+    "PROPER_NAME": "The",
+    "NAMES": [
+      "the"
+    ],
+    "DESCRIPTION": "Used as a function word to define references between objects and concepts."
+  },
+  {
+    "PROPER_NAME": "Their",
+    "NAMES": [
+      "their"
+    ],
+    "DESCRIPTION": "Belonging to it."
+  },
+  {
+    "PROPER_NAME": "Then",
+    "NAMES": [
+      "then"
+    ],
+    "DESCRIPTION": "Afterward."
+  },
+  {
+    "PROPER_NAME": "There",
+    "NAMES": [
+      "there"
+    ],
+    "DESCRIPTION": "In, at, or to that place or position."
+  },
+  {
+    "PROPER_NAME": "They",
+    "NAMES": [
+      "they"
+    ],
+    "DESCRIPTION": "Refers to the specified objects in question."
+  },
+  {
     "PROPER_NAME": "This",
     "NAMES": [
       "this",
       "these"
     ],
     "DESCRIPTION": "Referring to a specific thing or situation just mentioned."
+  },
+  {
+    "PROPER_NAME": "Time",
+    "NAMES": [
+      "time"
+    ],
+    "DESCRIPTION": "Foolish... NL FOOOLISH!"
+  },
+  {
+    "PROPER_NAME": "Times",
+    "NAMES": [
+      "times"
+    ],
+    "DESCRIPTION": "Multiplied by."
   },
   {
     "PROPER_NAME": "To",
@@ -124,17 +985,131 @@
     "DESCRIPTION": "Identifying the person or thing affected."
   },
   {
+    "PROPER_NAME": "Top",
+    "NAMES": [
+      "top"
+    ],
+    "DESCRIPTION": "[DictionaryMod:ImpIcon]"
+  },
+  {
+    "PROPER_NAME": "Transformed",
+    "NAMES": [
+      "transformed"
+    ],
+    "DESCRIPTION": "Transformed cards become a random card of any rarity."
+  },
+  {
+    "PROPER_NAME": "Trigger",
+    "NAMES": [
+      "trigger"
+    ],
+    "DESCRIPTION": "Cause (an event or situation) to happen or exist."
+  },
+  {
+    "PROPER_NAME": "Turn",
+    "NAMES": [
+      "turn",
+      "turns"
+    ],
+    "DESCRIPTION": "An opportunity or obligation to do something that comes successively."
+  },
+  {
+    "PROPER_NAME": "Twice",
+    "NAMES": [
+      "twice"
+    ],
+    "DESCRIPTION": "Two times."
+  },
+  {
+    "PROPER_NAME": "Unblocked",
+    "NAMES": [
+      "unblocked"
+    ],
+    "DESCRIPTION": "When the protec fails."
+  },
+  {
+    "PROPER_NAME": "Unique",
+    "NAMES": [
+      "unique"
+    ],
+    "DESCRIPTION": "Being the only one of its kind; unlike anything else."
+  },
+  {
+    "PROPER_NAME": "Until",
+    "NAMES": [
+      "until"
+    ],
+    "DESCRIPTION": "When to stop."
+  },
+  {
+    "PROPER_NAME": "Up",
+    "NAMES": [
+      "up"
+    ],
+    "DESCRIPTION": "The direction you move through the Spire."
+  },
+  {
+    "PROPER_NAME": "Was",
+    "NAMES": [
+      "was",
+      "were"
+    ],
+    "DESCRIPTION": "To previously exist, occur, or have a state."
+  },
+  {
+    "PROPER_NAME": "Way",
+    "NAMES": [
+      "way"
+    ],
+    "DESCRIPTION": "A method, style, or manner of doing something."
+  },
+  {
+    "PROPER_NAME": "When",
+    "NAMES": [
+      "when"
+    ],
+    "DESCRIPTION": "At or on which (referring to a time or circumstance)."
+  },
+  {
+    "PROPER_NAME": "Whenever",
+    "NAMES": [
+      "whenever"
+    ],
+    "DESCRIPTION": "Wherever, We're meant to be together. I'll be there, and you'll be near."
+  },
+  {
+    "PROPER_NAME": "While",
+    "NAMES": [
+      "while"
+    ],
+    "DESCRIPTION": "During the time that."
+  },
+  {
+    "PROPER_NAME": "Would",
+    "NAMES": [
+      "would"
+    ],
+    "DESCRIPTION": "Used to express plan or intention."
+  },
+  {
+    "PROPER_NAME": "X",
+    "NAMES": [
+      "x"
+    ],
+    "DESCRIPTION": "Maybe."
+  },
+  {
+    "PROPER_NAME": "You",
+    "NAMES": [
+      "you"
+    ],
+    "DESCRIPTION": "Lost the game."
+  },
+  {
     "PROPER_NAME": "Your",
     "NAMES": [
       "your"
     ],
     "DESCRIPTION": "Belonging to or associated with the person or people that the speaker is addressing."
-  },
-  {
-    "PROPER_NAME": "99",
-    "NAMES": [
-      "99"
-    ],
-    "DESCRIPTION": "Being nine more than ninety."
   }
 ]

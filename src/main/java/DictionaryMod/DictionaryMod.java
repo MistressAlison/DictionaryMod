@@ -1,11 +1,14 @@
 package DictionaryMod;
 
+import DictionaryMod.icons.ImpIcon;
+import DictionaryMod.icons.PleadingIcon;
 import DictionaryMod.util.TextureLoader;
 import basemod.*;
 import basemod.interfaces.*;
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.Texture;
 import com.evacipated.cardcrawl.mod.stslib.Keyword;
+import com.evacipated.cardcrawl.mod.stslib.icons.CustomIconHelper;
 import com.evacipated.cardcrawl.modthespire.lib.SpireConfig;
 import com.evacipated.cardcrawl.modthespire.lib.SpireInitializer;
 import com.google.gson.Gson;
@@ -37,9 +40,9 @@ public class DictionaryMod implements
 
 
     //This is for the in-game mod settings panel.
-    private static final String MODNAME = "Yes No Format";
+    private static final String MODNAME = "Dictionary Mod";
     private static final String AUTHOR = "Mistress Alison";
-    private static final String DESCRIPTION = "Replaces all integers with YES and NO.";
+    private static final String DESCRIPTION = "Makes every word a keyword.";
     
     // =============== INPUT TEXTURE LOCATION =================
     
@@ -106,31 +109,11 @@ public class DictionaryMod implements
         
         // Create the Mod Menu
         ModPanel settingsPanel = new ModPanel();
-
-        float currentYposition = 740f;
-        
-        // Create the on/off button:
-        ModLabeledToggleButton enableMaybeButton = new ModLabeledToggleButton(CardCrawlGame.languagePack.getUIString(DictionaryMod.makeID("ModConfigMaybe")).TEXT[0],
-                350.0f, currentYposition, Settings.CREAM_COLOR, FontHelper.charDescFont, // Position (trial and error it), color, font
-                enableMaybe, // Boolean it uses
-                settingsPanel, // The mod panel in which this button will be in
-                (label) -> {}, // thing??????? idk
-                (button) -> { // The actual button:
-            
-            enableMaybe = button.enabled; // The boolean true/false will be whether the button is enabled or not
-            try {
-                // And based on that boolean, set the settings and save them
-                SpireConfig config = new SpireConfig("DictionaryMod", "YesNoConfig", DictionaryModDefaultSettings);
-                config.setBool(ENABLE_MAYBE_SETTING, enableMaybe);
-                config.save();
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
-        });
-
-        settingsPanel.addUIElement(enableMaybeButton); // Add the button to the settings panel. Button is a go.
         
         BaseMod.registerModBadge(badgeTexture, MODNAME, AUTHOR, DESCRIPTION, settingsPanel);
+
+        CustomIconHelper.addCustomIcon(PleadingIcon.get());
+        CustomIconHelper.addCustomIcon(ImpIcon.get());
 
         logger.info("Done loading badge Image and mod options");
     }
